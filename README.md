@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+你好，我是Gene 是一位喜歡接觸新技術的軟體工程師。
 <!--
 **xkoww/xkoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
